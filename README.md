@@ -22,3 +22,5 @@ staging area: marked a modified file to go into the next snapshot, in it's curre
 git commit -m "explain what is being done"
 
 Git directory: commited, data safely stored in your local database
+
+Additional Text for Testing
